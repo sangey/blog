@@ -29,4 +29,4 @@ markdown: redcarpet
 
 pygments: true
 
-url: http://max-works.com
+baseurl: "http://max-works.com"
